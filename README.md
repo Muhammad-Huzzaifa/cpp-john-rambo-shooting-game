@@ -1,4 +1,4 @@
-# CPP-John-Rambo-Shooting-game
+# C++ John Rambo Shooting Game
 C++ Console Based Shooting Game
 <br>
 <br>
